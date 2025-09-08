@@ -9,7 +9,7 @@ Tenho grande interesse em atuar como **desenvolvedor Full Stack**, além de expl
 ## 🚀 Tecnologias e Ferramentas
 <div align="left">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+!![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -19,6 +19,10 @@ Tenho grande interesse em atuar como **desenvolvedor Full Stack**, além de expl
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL Server](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node (alt)](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-06B6D4?style=for-the-badge&logo=drizzle&logoColor=white)
 
 </div>
 
