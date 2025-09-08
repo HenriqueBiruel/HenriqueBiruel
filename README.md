@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Henrique!
 
-Sou desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Tenho experiência em **desenvolvimento web**, **bancos de dados** e **prototipagem de projetos acadêmicos e pessoais**.  
-Aqui você vai encontrar desde projetos de estudo até aplicações completas.
-
+Sou estudante de Engenharia de Computação na FACAMP (4º ano)
+Aqui você vai encontrar desde projetos de estudo até aplicações completas que refletem minha evolução como desenvolvedor.
+Tenho grande interesse em atuar como **desenvolvedor Full Stack**, **Java** e **Análise de Dados**. 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -24,14 +24,11 @@ Aqui você vai encontrar desde projetos de estudo até aplicações completas.
 ---
 
 ## 📌 Projetos em Destaque
-- 🎬 **Controle de Filmes e Séries** – Aplicação web para gerenciar conteúdos assistidos (Vue.js + Flask + MongoDB).  
-- 💼 **Plataforma de Suporte Técnico** – Sistema com dois tipos de usuários (cliente e empresa) para gerenciamento de reclamações.  
-- 🧾 **CRUD de Notas Fiscais** – Aplicação Flask com integração ao MongoDB Atlas.  
-- 📦 **Protótipo Máquina de Dobrar Caixas** – Projeto acadêmico em escala reduzida, validando viabilidade de automação.  
+- 🎬 **Controle de Filmes e Séries** – Aplicação web para gerenciar conteúdos assistidos, com integração à **API da The Movie Database (TMDb)** para buscar informações em tempo real sobre filmes e séries. Desenvolvido em **Vue.js + Flask + MongoDB**.  
+- 💼 **Plataforma de Suporte Técnico ao Cliente** – Sistema web que permite que clientes registrem reclamações e a empresa a gerenciem de forma prática.
+- 📱 **Aplicativo de Gestão Empresarial** – Aplicação desenvolvida em **Java**, voltada para controle dos dados.  
+- 🧾 **CRUD de Notas Fiscais** – Aplicação em **Flask** com integração ao **MongoDB Atlas**, possibilitando cadastro, consulta, atualização e exclusão de notas fiscais de forma eficiente.  
 
-➡️ Veja mais nos repositórios fixados!
-
----
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
