@@ -18,11 +18,12 @@ Tenho grande interesse em atuar como **desenvolvedor Full Stack**, além de expl
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Unity 3D](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-06B6D4?style=for-the-badge&logo=drizzle&logoColor=white)
-
 
 </div>
 
@@ -46,8 +47,8 @@ Tenho grande interesse em atuar como **desenvolvedor Full Stack**, além de expl
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/henrique)  
-- ✉️ henriquebiruel@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/henrique-biruel-furtado-58aa68239/)  
+- ✉️ henrique.biruelfurtado@gmail.com  
 
 ---
 ✨ Sempre aberto a aprender, colaborar e compartilhar conhecimento!
