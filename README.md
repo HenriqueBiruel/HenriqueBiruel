@@ -31,7 +31,7 @@ Tenho grande interesse em atuar como **desenvolvedor Full Stack**, além de expl
 
 ## 📌 Projetos em Destaque
 - 🎬 **Controle de Filmes e Séries** – Aplicação web para gerenciar conteúdos assistidos, com integração à **API da The Movie Database (TMDb)** para buscar informações em tempo real sobre filmes e séries. Desenvolvido em **Vue.js + Flask + MongoDB**.  
-- 💼 **Plataforma de Suporte Técnico ao Cliente** – Sistema web que permite que clientes registrem reclamações e a empresa a gerenciem de forma prática.
+- 💼 **Plataforma de Suporte Técnico ao Cliente: Projeto Atual** – Sistema web que permite que clientes registrem reclamações e a empresa a gerenciem de forma prática.
 - 📱 **Aplicativo de Gestão Empresarial** – Aplicação desenvolvida em **Java**, voltada para controle dos dados.  
 - 🧾 **CRUD de Notas Fiscais** – Aplicação em **Flask** com integração ao **MongoDB Atlas**, possibilitando cadastro, consulta, atualização e exclusão de notas fiscais de forma eficiente.  
 
