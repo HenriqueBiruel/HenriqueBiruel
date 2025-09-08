@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o Henrique!
 
-Sou estudante de Engenharia de Computação na FACAMP (4º ano)
-Aqui você vai encontrar desde projetos de estudo até aplicações completas que refletem minha evolução como desenvolvedor.
-Tenho grande interesse em atuar como **desenvolvedor Full Stack**, **Java** e **Análise de Dados**. 
+Sou **estudante de Engenharia de Computação na FACAMP (4º ano)**.  
+
+Tenho grande interesse em atuar como **desenvolvedor Full Stack**, além de explorar oportunidades com **Java** e **Análise de Dados**.  
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
